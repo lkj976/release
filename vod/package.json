@@ -13,6 +13,7 @@
     "@fastify/static": "^6.0.0",
     "@fastify/view": "^8.0.0",
     "@fastify/websocket": "^8.0.0",
+    "afinn-165": "^1.0.3",
     "axios": "^1.0.0",
     "bull": "^4.0.0",
     "cheerio": "^1.0.0-rc.12",
@@ -32,6 +33,7 @@
     "sqlite": "^5.1.1",
     "sqlite3": "^6.0.1",
     "telegram": "^2.0.0",
+    "uuid": "^8.3.2",
     "xmlbuilder2": "^3.0.0"
   },
   "scripts": {
